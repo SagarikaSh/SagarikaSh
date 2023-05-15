@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SagarikaSh
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL and Python
+- 👋 Hi, I’m Sagarika
+- 🌱 I’m currently exploring Data Analysis with SQL and Python
 - 💞️ I’m looking to collaborate on beginner friendly data analysis projects
-- 📫 How to reach me: email
+- 📫 How to reach me: Ping on Github
 
 <!---
 SagarikaSh/SagarikaSh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

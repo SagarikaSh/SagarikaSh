@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sagarika
-- 🌱 I’m currently exploring Data Analysis with SQL and Python
+- 🌱 I’m currently exploring Data Analysis using SQL and Python
 - 💞️ I’m looking to collaborate on beginner friendly data analysis projects
 - 📫 How to reach me: Ping on Github
 
